@@ -97,11 +97,6 @@ Run server application
 npm run start
 ```
 
-**Setup Issue?**
-Create an issue in this repository
-
-### Give a ⭐, if you liked the project
-
 ## 📸 Screenshots
 
 <div>
