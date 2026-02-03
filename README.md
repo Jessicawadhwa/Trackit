@@ -1,9 +1,6 @@
 <!-- INTRO SECTION -->
 <br />
-<p align="center">
-  <a href="https://github.com/Jenil-Vekaria/Trackit">
-    <img src="client/src/assets/Trackit_Background.png" alt="Trackit">
-  </a>
+
 
   <h3 align="center">Issue and Project Tracking System <a href="https://trackit-demo.vercel.app/">(DEMO)</a></h3>
 
